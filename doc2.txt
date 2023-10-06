@@ -1,2 +1,6 @@
+test
+
+
 voici doc2 
 modif
+TEST DE CONFLIT
