@@ -1,2 +1,3 @@
 voici doc2 
+test de conflit
 modif
