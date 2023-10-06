@@ -2,5 +2,6 @@ test
 
 
 voici doc2 
+test de conflit
 modif
 TEST DE CONFLIT
